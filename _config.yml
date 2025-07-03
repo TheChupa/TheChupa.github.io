@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Michael's Portfolio
-description: Developer * Thinker * Buidler
+description: Developer * Thinker * Builder
 exclude:
--_config.yml
+- _config.yml
