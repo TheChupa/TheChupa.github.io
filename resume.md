@@ -7,7 +7,7 @@ permalink: /resume/
 # Resume
 
 [📄 Download My Resume (PDF)](/assets/resume.pdf)
-![Screenshot](/assets/resumepng.png)
+![Resume](/assets/resumepng.png)
 
 
 ---
