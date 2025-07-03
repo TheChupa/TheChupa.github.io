@@ -6,20 +6,19 @@ permalink: /projects/
 
 # Projects
 
-## Weather App
+## CyberSecurity Website
 
-![Screenshot](/assets/project1.png)
+![Screenshot](/assets/cybertrainer.png)
 
-**Tech Used:** Java, Spring Boot, OpenWeatherMap API  
-[🔗 GitHub Repo](https://github.com/TheChupa/weatherapp)
+**Tech Used:** JavaScript, React, Vite, HTML, CSS 
+- 🌐 [Live Site](https://cyber-trainerlive-mc.netlify.app/)
+- [🔗 GitHub Repo](https://github.com/TheChupa/cybersecurity-info-app)
 
-A console-based weather app that pulls current conditions for user-inputted cities.
+A React app that teaches users about cyber scams and security.
+Features:
+- Real-time feedback and training modules
+- Clean, responsive design
+- Deployed via Netlify
 
 ---
 
-## Front-End Portfolio
-
-**Tech Used:** HTML/CSS/JavaScript  
-[🔗 GitHub Repo](https://github.com/TheChupa/frontend-project)
-
-Static site showcasing custom layouts and responsive design.
