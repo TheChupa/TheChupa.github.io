@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Michael's Portfolio
-description: Developer * Thinker * Buidler
+title: Michael's Portfolio \.
+description: Developer * Educator * Thinker
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme

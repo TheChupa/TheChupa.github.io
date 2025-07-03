@@ -7,6 +7,7 @@ permalink: /resume/
 # Resume
 
 [📄 Download My Resume (PDF)](/assets/resume.pdf)
+![Screenshot](/assets/resume.pdf)
 
 ---
 
@@ -18,4 +19,4 @@ permalink: /resume/
 
 
 ---
-[back](./)
+<a onclick="window.history.back()">Back</a>

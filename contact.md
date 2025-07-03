@@ -15,4 +15,4 @@ permalink: /contact/
 Want to connect about job opportunities or collaboration? Feel free to reach out!
 
 ---
-[back](./)
+<a onclick="window.history.back()">Back</a>

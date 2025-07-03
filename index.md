@@ -14,4 +14,4 @@ I'm Michael, a junior developer skilled in:
 
 🔍 I’m currently looking for opportunities in web development and backend engineering.
 
-[Resume](./resume) | [Projects](./projects) | [Contact](./contact)
+[Resume](./resume) | [Projects](./projects) | [Contact](./contact) | [About](./about.md)

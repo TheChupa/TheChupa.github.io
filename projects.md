@@ -21,4 +21,4 @@ Features:
 - Deployed via Netlify
 
 ---
-[back](./)
+<a onclick="window.history.back()">Back</a>
