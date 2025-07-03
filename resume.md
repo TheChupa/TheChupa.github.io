@@ -15,3 +15,7 @@ permalink: /resume/
 - 💻 LaunchCode graduate
 - 🏆 Completed a full-stack capstone project
 - ✅ Familiar with GitHub, Agile, and unit testing
+
+
+---
+[back](./)

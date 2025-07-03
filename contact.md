@@ -6,10 +6,13 @@ permalink: /contact/
 
 # Contact Me
 
-📧 Email: thechupa@example.com  
-💼 [LinkedIn](https://www.linkedin.com/in/thechupa)  
+
+💼 [LinkedIn](https://www.linkedin.com/in/itmichaelchurch/)  
 📍 Based in St. Louis, MO
 
 ---
 
 Want to connect about job opportunities or collaboration? Feel free to reach out!
+
+---
+[back](./)
