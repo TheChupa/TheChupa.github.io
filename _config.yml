@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-title: Michael's Portfolio
-description: Developer * Thinker * Builder
-exclude:
-- _config.yml
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
